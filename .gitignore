@@ -1,0 +1,11 @@
+# Build directory
+build/
+
+# CMake caches
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Local artifacts
+code
